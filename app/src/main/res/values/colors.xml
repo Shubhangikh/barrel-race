@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#6ACCCB</color>
+    <color name="actionItemColor">#6ACCCB</color>
+    <color name="textColor">#6ACCCB</color>
+    <color name="btnBackgroundColor">#D9F2F2</color>
+    <color name="gameToolbarBackground">#D9F2F2</color>
+    <color name="textFontColor">#434343</color>
+    <color name="borderColor">#434343</color>
+    <color name="fillColor">#80FF00</color>
+</resources>

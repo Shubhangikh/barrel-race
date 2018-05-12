@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Barrel Race</string>
+    <string name="action_settings">Settings</string>
+    <string name="high_scores">High Scores</string>
+    <string name="action_info">Info</string>
+    <string name="action_exit">Exit</string>
+    <string name="replay">Replay</string>
+    <string name="pause">Pause</string>
+    <string name="play_game">Play Game</string>
+    <string name="title_activity_high_scores">High Scores</string>
+    <string name="title_activity_game">Game</string>
+    <string name="time_elapsed">Time Elapsed</string>
+    <string name="time_elapsed1">00:00</string>
+    <string name="game_over">Game Over!</string>
+    <string name="new_high_score">New High Score!!</string>
+    <string name="try_again">Try Again</string>
+    <string name="go_to_home">Go To Home</string>
+    <string name="save">Save</string>
+    <string name="username">Username</string>
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="difficulty_level">Level of difficulty</string>
+    <string name="difficult">Difficult</string>
+    <string name="how_to_play">How to play?</string>
+    <string name="instruction1">A player must encircle all the three barrels in order to win a game. If you hit the barrel, then the game is over</string>
+    <string name="instruction2">If you hit the fence, there will be a penalty of 5 seconds</string>
+    <string name="instruction3">If a player hits a high score, the scores can be saved and are displayed in the list of top 10 scores. Good Luck!</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>

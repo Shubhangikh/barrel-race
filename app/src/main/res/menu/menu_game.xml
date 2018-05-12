@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cwl.barrelrace.barrelracegame.view.Game">
+
+    <item
+        android:id="@+id/game_replay"
+        android:icon="@drawable/retry"
+        android:title="@string/replay"
+        app:showAsAction="always"/>
+
+    <!--<item
+        android:id="@+id/game_pause"
+        android:icon="@drawable/pause"
+        android:title="@string/pause"
+        app:showAsAction="always"/>-->
+</menu>
